@@ -1,0 +1,1 @@
+{"version":3,"file":"ChannelDelete.d.ts","sourceRoot":"","sources":["../../../src/client/actions/ChannelDelete.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAA;AAGjC,qBAAa,mBAAoB,SAAQ,MAAM;IAC3C,MAAM,CAAC,IAAI,EAAE;QAAE,EAAE,EAAE,MAAM,CAAA;KAAE,GAAG,OAAO;CAexC"}

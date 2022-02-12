@@ -1,0 +1,1 @@
+{"version":3,"file":"ServerRoleDelete.d.ts","sourceRoot":"","sources":["../../../src/client/actions/ServerRoleDelete.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAA;AAGjC,qBAAa,sBAAuB,SAAQ,MAAM;IAC9C,MAAM,CAAC,IAAI,EAAE;QAAE,EAAE,EAAE,MAAM,CAAC;QAAC,OAAO,EAAE,MAAM,CAAA;KAAE,GAAG,OAAO;CAgBzD"}

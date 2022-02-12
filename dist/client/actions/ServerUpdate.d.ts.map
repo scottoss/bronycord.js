@@ -1,0 +1,1 @@
+{"version":3,"file":"ServerUpdate.d.ts","sourceRoot":"","sources":["../../../src/client/actions/ServerUpdate.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,IAAI,SAAS,EAAE,MAAM,0BAA0B,CAAA;AAC9D,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAA;AAGjC,qBAAa,kBAAmB,SAAQ,MAAM;IAC1C,MAAM,CAAC,IAAI,EAAE;QAAE,EAAE,EAAE,MAAM,CAAC;QAAC,IAAI,EAAE,SAAS,CAAA;KAAE,GAAG,OAAO;CAezD"}

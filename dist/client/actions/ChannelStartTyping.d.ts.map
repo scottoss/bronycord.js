@@ -1,0 +1,1 @@
+{"version":3,"file":"ChannelStartTyping.d.ts","sourceRoot":"","sources":["../../../src/client/actions/ChannelStartTyping.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAA;AAIjC,qBAAa,wBAAyB,SAAQ,MAAM;IAChD,MAAM,CAAC,IAAI,EAAE;QAAE,EAAE,EAAE,MAAM,CAAC;QAAC,IAAI,EAAE,MAAM,CAAA;KAAE,GAAG,OAAO;CAUtD"}

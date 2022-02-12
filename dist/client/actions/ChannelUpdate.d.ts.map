@@ -1,0 +1,1 @@
+{"version":3,"file":"ChannelUpdate.d.ts","sourceRoot":"","sources":["../../../src/client/actions/ChannelUpdate.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,IAAI,UAAU,EAAE,MAAM,2BAA2B,CAAA;AACjE,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAA;AAGjC,qBAAa,mBAAoB,SAAQ,MAAM;IAC3C,MAAM,CAAC,IAAI,EAAE;QAAE,EAAE,EAAE,MAAM,CAAC;QAAC,IAAI,EAAE,UAAU,CAAA;KAAE,GAAG,OAAO;CAc1D"}

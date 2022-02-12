@@ -1,0 +1,1 @@
+{"version":3,"file":"ServerDelete.d.ts","sourceRoot":"","sources":["../../../src/client/actions/ServerDelete.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,IAAI,SAAS,EAAE,MAAM,0BAA0B,CAAA;AAC9D,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAA;AAGjC,qBAAa,kBAAmB,SAAQ,MAAM;IAC1C,MAAM,CAAC,IAAI,EAAE,SAAS,GAAG,OAAO;CAWnC"}

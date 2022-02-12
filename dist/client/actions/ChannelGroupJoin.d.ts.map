@@ -1,0 +1,1 @@
+{"version":3,"file":"ChannelGroupJoin.d.ts","sourceRoot":"","sources":["../../../src/client/actions/ChannelGroupJoin.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAA;AAIjC,qBAAa,sBAAuB,SAAQ,MAAM;IACxC,MAAM,CAAC,IAAI,EAAE;QAAE,EAAE,EAAE,MAAM,CAAC;QAAC,IAAI,EAAE,MAAM,CAAA;KAAE,GAAG,OAAO,CAAC,OAAO,CAAC;CAarE"}

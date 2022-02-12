@@ -1,0 +1,50 @@
+{
+  "name": "bronycord.js",
+  "description": "A NodeJS bronycord library",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix",
+    "format": "prettier --write src/**/*.ts"
+  },
+  "main": "dist/index.js",
+  "license": "GNU-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottoss/bronycord.js"
+  },
+  "keywords": [
+    "bronycord",
+    "api",
+    "bot",
+    "node"
+  ],
+  "dependencies": {
+    "@discordjs/collection": "^0.2.1",
+    "node-fetch": "^2.6.1",
+    "revolt-api": "^0.5.3-alpha.10",
+    "ws": "^8.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.13",
+    "@types/node-fetch": "^2.5.12",
+    "@types/ws": "^8.2.0",
+    "@typescript-eslint/eslint-plugin": "^4.29.1",
+    "@typescript-eslint/parser": "^4.29.1",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-sort-class-members": "^1.11.0",
+    "prettier": "^2.3.2",
+    "typescript": "^4.5.2"
+  },
+  "files": [
+    "dist/*"
+  ],
+  "engines": {
+    "node": ">=16.6.0",
+    "npm": ">=7.0.0"
+  }
+}

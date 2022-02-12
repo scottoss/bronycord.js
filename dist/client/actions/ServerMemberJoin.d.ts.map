@@ -1,0 +1,1 @@
+{"version":3,"file":"ServerMemberJoin.d.ts","sourceRoot":"","sources":["../../../src/client/actions/ServerMemberJoin.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAA;AAGjC,qBAAa,gBAAiB,SAAQ,MAAM;IAClC,MAAM,CAAC,IAAI,EAAE;QAAE,EAAE,EAAE,MAAM,CAAC;QAAC,IAAI,EAAE,MAAM,CAAA;KAAE,GAAG,OAAO,CAAC,OAAO,CAAC;CAgBrE"}
