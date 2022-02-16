@@ -89,8 +89,8 @@ var MessageTypes;
 })(MessageTypes = exports.MessageTypes || (exports.MessageTypes = {}));
 exports.DEFUALT_OPTIONS = {
     http: {
-        api: 'https://bronycord.bronytube.nl:2096',
-        cdn: 'https://cdn.derpystown.nl:2096',
+        api: 'https://api.bronycord.cf:2096',
+        cdn: 'https://cdn.bronycord.cf:2096',
         invite: 'https://bronycord.bronytube.nl',
         timeout: 15000,
         retries: 3,
