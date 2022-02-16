@@ -1,7 +1,7 @@
 {
   "name": "bronycord.js",
   "description": "A NodeJS bronycord library",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "scripts": {
     "build": "tsc",
     "lint": "eslint src",
